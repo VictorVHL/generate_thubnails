@@ -14,7 +14,7 @@ const { Storage } = Cloud;
 export class ActionsService {
   async findById(jobId: string) {
     (process as any).db = (process as any)?.db || {};
-    return (process as any).db[jobId];
+    return { status: (process as any).db[jobId].status }
   }
 
   async createAction({ status }: { status: string }) {
@@ -42,7 +42,7 @@ export class ActionsService {
       const newJob = await this.createAction({ status: 'in_progress' });
       this.handleGenerateThumbnails({ ...data, jobId: newJob.jobId });
 
-      return newJob;
+      return { jobId: newJob.jobId };
     }
   }
 
