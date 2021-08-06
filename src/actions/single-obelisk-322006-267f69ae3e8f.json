@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "single-obelisk-322006",
+    "private_key_id": "267f69ae3e8f84e925dd56c1af7fb09fbbd43e77",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKfUyj8nrl1mIb\nTrr8p7wBn2LuQtP3j3VX3N7lWCbpuulK4/8cJN7J2KtGVkjm5ZhHqyA/RehvXDIw\nJu6LHANms0wsIWZjD3rteaEDyJ7nNTvqjvAzdpMjuYl5tcoshkbBwoijjbzadJYE\n9XaVX4H5xhhgO8COQ9xQ++99LVZhpRvSowT1n0wJ74ejsUs/seQ+1TpBlC/aEKNH\n/rXCvNJyh8NSJ0IUzkkVnE2rHZaC04eqzJJxK0M7fVzKrPhBejOTb7Ef5Nbsno4u\nZJZgdfkCzLn3ET1uaWlhSTYVreR9eYwi3ehYDzpLD1E+PIJhkaBv0qpqGXS1ClRB\n5Hv2JGmDAgMBAAECggEACXix8ItDj2OnRCK7IV1RMHw9mup6Ur6dnQYCURT+APnS\ntsOSZ8UbvLJLVKdtkotTw6pwADWraSYVXOY9Szl8uT2Sxw+q4+BR/jCtxOkJ8cOu\nMUsNVkLqIAYqNYy4z7taLO8GCCx1lHxWlhXLPbJxeHb5Jes1lxH6iLk4GxFXVIrY\nwEA6aM+CTjeEXPTfuKkvBfXMlGBxFg0azk6niu3rQ9wJeYP3WjsZJsS6gikGOX19\nQ3kDJgAptPcAuab0lZ3hlqe/QGx2FvhXTuLqRKu23jXHChCjGr4LUztaXntXEeQ/\nGJpMCs3lf1anwRXp/TfZgeIABikrJd5AGz3s8GjUoQKBgQDtfmT8bMmIxLhlmItb\nsdkh3W3qOsn0ytSq+Nq6R8vW9ebGsWnbr4xtrHe3ddjGjuGL4STNAo+Gv1Sv/l3T\nNw4IdAIlnE/cZVBLjzyAdhWgm8EKIxmAeDBDnQIUi+3wuO1t0DLJq2FP4O1KDfYl\nqEbdmK2pcZoqwCkmNuJryBae4QKBgQDaRKCv4qgoFwHjfypjgT6gS99wPyhOz2qp\n++0WR6tcSx+6Jkb+aLofEKHe1E+YQCFaszW6aFxgZ45f1KUj6EURkM53VQHf5QJ+\nT/huIv9jDm3qYbYVyOgYbH5yro9ttv4G8+S6yb734b+P39c0QIzMd2ZRAGoilBmX\nzyDyYW6I4wKBgGWWGBpFaltfUkTa4FljlK5AqiBz7ykPjbJoah8eUNntKz64asB2\nscnD6R2HgidEvMN5laU/wCbyNoZldrq/JPiGrthpqVtr1tHLPiTw3cVqekMcym7C\nelqhkV86j5fVcnHziZXsAd8KJlXz7OMkvNNS2I3PMxOwSKm49lcGKm7hAoGBAJr8\ncD10bINLEwQ/oBHYDGg2eAp0TmLn1Y2uXcOcUInQrk64L2EnbEHyxX48s+ggYY7O\nAjDDOhUac3aIwFqm66R1dqY1rocVTpfyoS1TnJTyAgqUJ3+AkY4GPCOi4CW/8tFt\nDdW0u+24VxYKk/1+eHwXrIeIC9VR5Hpvka2KkbqRAoGABdWZM3MAyUgmoSJ+jn5W\ntjyA+lRfFIs3JTH452BR6blWr5y9ReYgzXc0gsCa3b8Iu8JTrHwpcN1U3npNcPX2\nMC8PjSbsovcBYhFLvgeS0l9JnQ0is7lSTIEB++C1zuqVyLhappjtOYvJg0C8ipVd\nQi6wGYei/1zZe60QPYkzn4A=\n-----END PRIVATE KEY-----\n",
+    "client_email": "victor987@single-obelisk-322006.iam.gserviceaccount.com",
+    "client_id": "114068139695199702173",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/victor987%40single-obelisk-322006.iam.gserviceaccount.com"
+  }
+  
